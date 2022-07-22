@@ -2,7 +2,7 @@
 P
 java:S1118":Add a private constructor to hide the implicit public one.(Ò¦ù™
 N	java:S106"9Replace this use of System.out or System.err by a logger.(—óâû
-X
-java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËÞˆ8‰¤ŸŽ¢0
-Y
-java:S1128"7Remove this unused import 'java.net.ProtocolException'.(é­Èðûÿÿÿÿ8‰¤ŸŽ¢0
+Q
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËÞˆ
+R
+java:S1128"7Remove this unused import 'java.net.ProtocolException'.(é­Èðûÿÿÿÿ
