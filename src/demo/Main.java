@@ -20,7 +20,6 @@ public class Main {
         PostHttpRequest.postRequest();
         DeleteRequest.deleteRequest();
         PutRequest.putRequest();
-
     }
 
     public static String parse(String responseBody){

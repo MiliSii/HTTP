@@ -22,6 +22,7 @@ public static void getRequest(){
 //        //send request using client.async sending request
 
 
+
 //2.METHOD
     //method1 java.net.HttpURLConnection
 

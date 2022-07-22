@@ -14,7 +14,6 @@ public class PostHttpRequest {
     public static void postRequest() throws IOException {
 
 
-
         URL url = new URL("https://jsonplaceholder.typicode.com/posts/1");
         HttpURLConnection http = (HttpURLConnection) url.openConnection();
         http.setRequestMethod("POST");
